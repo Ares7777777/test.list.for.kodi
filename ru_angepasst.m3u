@@ -1,0 +1,231 @@
+#EXTINF:-1,Пятница!
+http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
+
+#EXTINF:-1,Пятница! International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:-1,Перец
+http://stream01.vnet.am/Perec/mono.m3u8
+
+#EXTINF:-1,Перец International
+http://stream01.vnet.am/Perec/mono.m3u8
+
+#EXTINF:-1,ТНТ
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+
+#EXTINF:-1,Че!
+http://178.212.71.253:8002/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="Телеком-сервис",Ю
+http://185.23.80.28:8080/Yu/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Час ТВ",Ю
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/yutv.stream/playlist.m3u8
+
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1,Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,Первый канал
+http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
+
+#EXTINF:-1,Первый канал HD
+http://194.143.148.28:8080/PerviyHD/index.m3u8
+
+#EXTINF:-1,РОССИЯ-24
+http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Час ТВ",Россия 24
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rossiya24-hq.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="RTRPlaneta.ru" tvg-country="CIS;EUR" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",РТР-Планета (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1,Мосфильм. Золотая коллекция (HD)
+http://185.50.148.2:7706/Mosfilm/index.m3u8
+
+#EXTINF:-1,СТС (HD)
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,СТС International
+https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+
+#EXTINF:-1,СТС Love
+http://178.212.71.253:8002/play/a00r/index.m3u8
+
+#EXTINF:-1,Субботa!
+http://185.23.80.28:8080/Super/index.m3u8?token=test
+
+#EXTINF:-1,Победа
+http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
+
+#EXTINF:-1,RTR-planeta
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Россия-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
+
+#EXTINF:-1,Известия ТВ
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:-1,Звезда
+#EXTGRP:Российские
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+
+#EXTINF:0,ARD
+http://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="WELT News (loop)" tvg-id="WELTNewsLoop.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT News (Dauerschleife)
+https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
+
+#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC FLASHBACK" tvg-id="DeLuxeMusicFlashback.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicflashback.png",DELUXE MUSIC FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicdance.png",DELUXE MUSIC DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:0,Kronehit
+#EXTGRP:Музыкальные
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:0,Deluxe Music
+#EXTGRP:Музыкальные
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:0,EU Music HD
+#EXTGRP:Музыкальные
+http://78.26.128.16:8081/421/index.m3u8
+
+#EXTINF:0,Box Hits (576p)
+#EXTGRP:Музыкальные
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:0,Eurodance 90 HD
+#EXTGRP:Музыкальные
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+
+#EXTINF:0,Now 90's
+#EXTGRP:Музыкальные
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Bridge Deluxe
+#EXTGRP:Музыкальные
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+
+#EXTINF:-1 ,BRIDGE CLASSIC
+http://185.23.80.28:8080/BRIDGETVCLASSIC/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,BRIDGE ФРЭШ
+http://185.23.80.28:8080/BRIDGE_FRESH/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,BRIDGE TV HITS
+http://185.23.80.28:8080/BRIDGETVDANCE/tracks-a1v1/playlist.m3u8
+
+#EXTINF:0,MTV LIVE
+#EXTGRP:Музыкальные
+http://41.205.93.154:80/MTVLIVE/index.m3u8
+
+#EXTINF:0,MTV BIGGEST POP
+#EXTGRP:Музыкальные
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:0,MTV Block Party
+#EXTGRP:Музыкальные
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 ,BRIDGE TV Русский хит
+http://185.23.80.28:8080/BRIDGETVRusskijXit/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,RUSSIAN MUSIC BOX
+http://185.23.80.28:8080/RUSSIANMUSICBOX/tracks-a1v1/playlist.m3u8
+
+#EXTINF:0,Music Top
+#EXTGRP:Музыкальные
+http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
+
+#EXTINF:-1 ,Музыка Первого
+http://185.23.80.28:8080/MuzikaPervogo/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,VIVA Russia
+http://45.143.108.104:80/VIVA_SD/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,1HD
+http://31.210.208.167:8080/1hd/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1,Муз ТВ
+http://ott-cdn.ucom.am/s28/04.m3u8
+
+#EXTINF:-1 ,RU.TV
+http://185.23.80.28:8080/RU.TV/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,ТНТ МУЗЫКА
+https://bl.uma.media/live/619345/HLS/4280320_3/2/1/playlist.m3u8
+
+#EXTINF:-1 ,Европа Плюс ТВ
+http://31.210.208.167:8080/europaplus/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,ЖАРА
+http://31.210.208.167:8080/jara/tracks-a1v1/playlist.m3u8
+
+#EXTINF:-1 ,О2
+http://185.23.80.28:8080/O2/tracks-a1v1/playlist.m3u8
+
+#EXTINF:0,Первый музыкальный
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2200/
+
+#EXTINF:0,Vevo Pop Europe
+#EXTGRP:Музыкальные
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+
