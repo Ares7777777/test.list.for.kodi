@@ -135,15 +135,6 @@ https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
 https://bild.personalstream.tv/v1/master.m3u8
 
-#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-name="DELUXE MUSIC FLASHBACK" tvg-id="DeLuxeMusicFlashback.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicflashback.png",DELUXE MUSIC FLASHBACK
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-
 #EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicdance.png",DELUXE MUSIC DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
@@ -155,65 +146,11 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTGRP:Музыкальные
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:0,EU Music HD
-#EXTGRP:Музыкальные
-http://78.26.128.16:8081/421/index.m3u8
-
-#EXTINF:0,Box Hits (576p)
-#EXTGRP:Музыкальные
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-#EXTINF:0,Eurodance 90 HD
-#EXTGRP:Музыкальные
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-
 #EXTINF:0,Now 90's
 #EXTGRP:Музыкальные
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:0,Bridge Deluxe
-#EXTGRP:Музыкальные
-https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
-
-#EXTINF:-1 ,BRIDGE CLASSIC
-http://185.23.80.28:8080/BRIDGETVCLASSIC/tracks-a1v1/playlist.m3u8
-
-#EXTINF:-1 ,BRIDGE ФРЭШ
-http://185.23.80.28:8080/BRIDGE_FRESH/tracks-a1v1/playlist.m3u8
-
-#EXTINF:-1 ,BRIDGE TV HITS
-http://185.23.80.28:8080/BRIDGETVDANCE/tracks-a1v1/playlist.m3u8
-
-#EXTINF:0,MTV LIVE
-#EXTGRP:Музыкальные
-http://41.205.93.154:80/MTVLIVE/index.m3u8
-
-#EXTINF:0,MTV BIGGEST POP
-#EXTGRP:Музыкальные
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:0,MTV Block Party
-#EXTGRP:Музыкальные
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 ,BRIDGE TV Русский хит
-http://185.23.80.28:8080/BRIDGETVRusskijXit/tracks-a1v1/playlist.m3u8
-
-#EXTINF:-1 ,RUSSIAN MUSIC BOX
-http://185.23.80.28:8080/RUSSIANMUSICBOX/tracks-a1v1/playlist.m3u8
-
-#EXTINF:0,Music Top
-#EXTGRP:Музыкальные
-http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
-
-#EXTINF:-1 ,Музыка Первого
-http://185.23.80.28:8080/MuzikaPervogo/tracks-a1v1/playlist.m3u8
-
 #EXTINF:-1 ,VIVA Russia
 http://45.143.108.104:80/VIVA_SD/tracks-a1v1/playlist.m3u8
-
-#EXTINF:0,Первый музыкальный
-#EXTGRP:Музыкальные
-http://rtmp.one.by:2200/samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
 
