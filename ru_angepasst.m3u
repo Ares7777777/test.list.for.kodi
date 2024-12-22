@@ -212,33 +212,8 @@ http://185.23.80.28:8080/MuzikaPervogo/tracks-a1v1/playlist.m3u8
 #EXTINF:-1 ,VIVA Russia
 http://45.143.108.104:80/VIVA_SD/tracks-a1v1/playlist.m3u8
 
-#EXTINF:-1 ,1HD
-http://31.210.208.167:8080/1hd/tracks-a1v1/playlist.m3u8
-
-#EXTINF:-1,Муз ТВ
-http://ott-cdn.ucom.am/s28/04.m3u8
-
-#EXTINF:-1 ,RU.TV
-http://185.23.80.28:8080/RU.TV/tracks-a1v1/playlist.m3u8
-
-#EXTINF:-1 ,ТНТ МУЗЫКА
-https://bl.uma.media/live/619345/HLS/4280320_3/2/1/playlist.m3u8
-
-#EXTINF:-1 ,Европа Плюс ТВ
-http://31.210.208.167:8080/europaplus/tracks-a1v1/playlist.m3u8
-
-#EXTINF:-1 ,ЖАРА
-http://31.210.208.167:8080/jara/tracks-a1v1/playlist.m3u8
-
-#EXTINF:-1 ,О2
-http://185.23.80.28:8080/O2/tracks-a1v1/playlist.m3u8
-
 #EXTINF:0,Первый музыкальный
 #EXTGRP:Музыкальные
-http://rtmp.one.by:2200/
-
-#EXTINF:0,Vevo Pop Europe
-#EXTGRP:Музыкальные
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+http://rtmp.one.by:2200/samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
 
