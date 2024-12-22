@@ -129,9 +129,6 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="WELT News (loop)" tvg-id="WELTNewsLoop.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT News (Dauerschleife)
-https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
-
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
 https://bild.personalstream.tv/v1/master.m3u8
 
