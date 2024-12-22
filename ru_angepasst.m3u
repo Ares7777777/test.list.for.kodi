@@ -1,4 +1,3 @@
-
 #EXTINF:-1,Пятница!
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 
@@ -13,6 +12,12 @@ http://stream01.vnet.am/Perec/mono.m3u8
 
 #EXTINF:-1,ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 576p)
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ (HD)
+http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 
 #EXTINF:-1,Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
