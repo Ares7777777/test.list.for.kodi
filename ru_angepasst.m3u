@@ -44,7 +44,7 @@ http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1,Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 
-#EXTINF:-1,РОССИЯ-24
+#EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png",РОССИЯ-24
 http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Час ТВ",Россия 24
