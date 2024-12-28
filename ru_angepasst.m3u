@@ -44,7 +44,7 @@ http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="новости",Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="новости",Россия-1
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="новости",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="Час ТВ",Россия 24
