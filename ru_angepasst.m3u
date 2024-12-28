@@ -10,16 +10,16 @@ http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец International
 http://stream01.vnet.am/Perec/mono.m3u8
 
-#EXTINF:-3 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ
+#EXTINF:4 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ
 http://85.187.13.40:18000/tntint
 
-#EXTINF:-3 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ
+#EXTINF:4 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 
-#EXTINF:-3 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 576p)
+#EXTINF:4 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 576p)
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 
-#EXTINF:-3 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ (HD)
+#EXTINF:4 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ (HD)
 http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
