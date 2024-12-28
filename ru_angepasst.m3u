@@ -25,6 +25,9 @@ http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю (HD ready)
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
 http://185.23.80.28:8080/Yu/index.m3u8?token=test
 
@@ -62,6 +65,12 @@ http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/domashniy.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино (EDTV 576p)
+https://stream01.vnet.am/DomKino/mono.m3u8
+
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом кино Премиум (EDTV 576p)
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Час ТВ",СТС
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/sts.stream/chunks.m3u8
@@ -75,7 +84,7 @@ https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="subbota" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa!
+#EXTINF:-1 tvg-id="subbota" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa
 http://185.23.80.28:8080/Super/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="новости",Известия ТВ
