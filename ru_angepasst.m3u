@@ -48,7 +48,6 @@ http://194.143.148.28:8080/PerviyHD/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="Час ТВ",Россия 24
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/rossiya24-hq.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="новости",РТР Планета
@@ -58,7 +57,6 @@ http://ott-cdn.ucom.am/s15/index.m3u8
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Час ТВ",Домашний
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/domashniy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино
@@ -68,7 +66,6 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Час ТВ",СТС
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/sts.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС (HD)
@@ -87,7 +84,6 @@ http://185.23.80.28:8080/Super/index.m3u8?token=test
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="Час ТВ",Кинокомедия
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/komediya.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="фильмы",Победа
@@ -97,7 +93,6 @@ http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
 http://91.205.199.3/pobeda/index.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="фильмы",Звезда
-#EXTGRP:Российские
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="спорт",Eurosport 1
