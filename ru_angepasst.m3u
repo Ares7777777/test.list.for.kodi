@@ -46,8 +46,11 @@ http://194.143.148.28:8080/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="новости",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="Час ТВ",Россия 24
-https://s83.chas.tv:8082/chas/rossiya24-hq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
+http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
+http://213.226.137.140:81/tl/l44/mpegts
 
 #EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="новости",Россия РТР
 http://ott-cdn.ucom.am/s15/index.m3u8
@@ -55,8 +58,8 @@ http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="фильмы",Мосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 
-#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Час ТВ",Домашний
-https://s83.chas.tv:8082/chas/domashniy.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="фильмы",Домашний
+http://178.124.152.238:8088/dom
 
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
@@ -64,13 +67,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="pyatyi" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/russia/channel-5-ru.png" group-title="Час ТВ",Пятый канал
-https://s83.chas.tv:8082/chas/pyatyi-hq.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Час ТВ",СТС
-https://s83.chas.tv:8082/chas/sts.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС HD
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
 http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
@@ -78,6 +75,9 @@ https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="pyatij" tvg-logo="https://en.wikipedia.org/wiki/5TV_(Russian_TV_channel)#/media/File:5-tv_logo_(2023).svg" group-title="фильмы",Пятый канал
+http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="subbota" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa!
 http://185.23.80.28:8080/Super/index.m3u8?token=test
