@@ -28,9 +28,6 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
 http://185.23.80.28:8080/Yu/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Час ТВ",Ю
-http://s83.chas.tv:8081/chas/yutv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="новости",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
@@ -46,13 +43,13 @@ http://194.143.148.28:8080/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="новости",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
 http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="ROSSIA24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
 http://213.226.137.140:81/tl/l44/mpegts
 
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="новости",Россия РТР
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="новости",Россия РТР
 http://ott-cdn.ucom.am/s15/index.m3u8
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="фильмы",Мосфильм. Золотая коллекция
@@ -76,7 +73,7 @@ https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="pyatij" tvg-logo="https://en.wikipedia.org/wiki/5TV_(Russian_TV_channel)#/media/File:5-tv_logo_(2023).svg" group-title="фильмы",Пятый канал
+#EXTINF:-1 tvg-id="pyatij" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="фильмы",Пятый канал
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="subbota" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa!
