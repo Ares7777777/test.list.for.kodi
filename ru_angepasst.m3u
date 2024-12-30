@@ -29,7 +29,6 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 http://185.23.80.28:8080/Yu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Час ТВ",Ю
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/yutv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="новости",Мир
@@ -53,7 +52,7 @@ https://s83.chas.tv:8082/chas/rossiya24-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="новости",РТР Планета
 http://ott-cdn.ucom.am/s15/index.m3u8
 
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="фильмы",Мосфильм. Золотая коллекция (HD)
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="фильмы",Мосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Час ТВ",Домашний
@@ -62,13 +61,13 @@ https://s83.chas.tv:8082/chas/domashniy.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 
-#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом кино Премиум
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Час ТВ",СТС
 https://s83.chas.tv:8082/chas/sts.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС (HD)
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС HD
 http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
@@ -146,15 +145,15 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicdance.png",DELUXE MUSIC DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
-#EXTINF:0,Kronehit
+#EXTINF:-1 ,Kronehit
 #EXTGRP:Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:0,Deluxe Music
+#EXTINF:-1 ,Deluxe Music
 #EXTGRP:Музыкальные
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:0,Now 90's
+#EXTINF:-1 ,Now 90's
 #EXTGRP:Музыкальные
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
