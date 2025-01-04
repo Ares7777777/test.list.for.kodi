@@ -94,7 +94,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="спорт",Eurosport 1
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="спорт",Eurosport
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="спорт",Eurosport 2
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 
 #EXTINF:-1 tvg-id="futbol" tvg-logo="https://iptvx.one/picons/futbol.png" group-title="спорт",Футбол
