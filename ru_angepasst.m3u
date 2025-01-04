@@ -73,7 +73,7 @@ http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="pyatij" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="фильмы",Пятый канал
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="subbota" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa!
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa!
 http://185.23.80.28:8080/Super/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="новости",Известия
