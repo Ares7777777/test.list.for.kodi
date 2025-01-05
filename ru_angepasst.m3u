@@ -31,16 +31,16 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="новости",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/russia/channel-one-ru.png" group-title="новости",Первый канал
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/perviy.png?raw=true" group-title="новости",Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="новости",Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://camo.githubusercontent.com/9a6b5368773e9a663e1729a3b027a5d8a093e38d51360a236d3254913821ba57/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36342f5275737369612d312e7376672f3130323470782d5275737369612d312e7376672e706e67" group-title="новости",Россия 1
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia1.jpg?raw=true" group-title="новости",Россия 1
 http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://camo.githubusercontent.com/9a6b5368773e9a663e1729a3b027a5d8a093e38d51360a236d3254913821ba57/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36342f5275737369612d312e7376672f3130323470782d5275737369612d312e7376672e706e67" group-title="новости",Россия 1 Тамбов
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia1.jpg?raw=true" group-title="новости",Россия 1 Тамбов
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
