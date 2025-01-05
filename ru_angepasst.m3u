@@ -24,9 +24,9 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="новости",Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia1.jpg?raw=true" group-title="новости",Россия 1
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia-1.png?raw=true" group-title="новости",Россия 1
 http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia1.jpg?raw=true" group-title="новости",Россия 1 Тамбов
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia-1.png?raw=true" group-title="новости",Россия 1 Тамбов
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
 http://213.226.137.140:81/tl/l44/mpegts
