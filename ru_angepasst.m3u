@@ -71,7 +71,7 @@ http://185.23.80.28:8080/STS/index.m3u8?token=test
 ## https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
+http://185.23.80.28:8080/STSLove/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="pyatij" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="фильмы",Пятый канал
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
