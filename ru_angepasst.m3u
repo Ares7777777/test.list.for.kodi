@@ -38,9 +38,9 @@ http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://camo.githubusercontent.com/9a6b5368773e9a663e1729a3b027a5d8a093e38d51360a236d3254913821ba57/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36342f5275737369612d312e7376672f3130323470782d5275737369612d312e7376672e706e67" group-title="новости",Россия 1
-http://185.23.80.28:8080/Rossiya1/index.m3u8?token=test
+http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="новости",Россия 1 Тамбов
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://camo.githubusercontent.com/9a6b5368773e9a663e1729a3b027a5d8a093e38d51360a236d3254913821ba57/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36342f5275737369612d312e7376672f3130323470782d5275737369612d312e7376672e706e67" group-title="новости",Россия 1 Тамбов
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
@@ -65,7 +65,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
-http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+http://185.23.80.28:8080/STS/index.m3u8?token=test
 
 ## #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
 ## https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
